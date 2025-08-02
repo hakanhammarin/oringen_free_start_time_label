@@ -1,5 +1,5 @@
 # oringen_free_start_time_label
-generates a PDF with labels 38x21.2mm from a CSV file  
+generates a PDF in A4 format with labels 38x21.2mm (10+10mm margin) from a CSV file.  
 Requires:  
 python3  
 pip3 install reportlab
