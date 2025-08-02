@@ -5,3 +5,9 @@ pip3 install reportlab
 
 run:  
 python3 oringen_free_start_labels.py  
+  
+Print PDF in 100% on A4 paper. No scaling.  
+  
+Works fine in "Preview" in MacOS at 100%.  
+
+
