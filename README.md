@@ -3,5 +3,5 @@ generates a PDF with labels 38x21.2mm from a CSV file
 Requires:  
 pip3 install reportlab
 
-run:
+run:  
 python3 oringen_free_start_labels.py  
